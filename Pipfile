@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 comtypes = "*"
 docx2pdf = "*"
+pyinstaller = "*"
+
 [dev-packages]
 
 [requires]
