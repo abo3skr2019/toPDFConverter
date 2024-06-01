@@ -1,2 +1,4 @@
 pdfconverter.spec
 pipfile.lock
+build/
+dist/
