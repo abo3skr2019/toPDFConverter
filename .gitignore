@@ -2,3 +2,6 @@ pdfconverter.spec
 pipfile.lock
 build/
 dist/
+*.pdf
+*.ppt*
+*.doc* 
